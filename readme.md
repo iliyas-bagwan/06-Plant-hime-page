@@ -5,6 +5,7 @@
 * Applying on hover effect using css.
 * Applying position property such as _**relative**_ and _**absolute**_ and defining left, right, top, bottom to meet the requirement.
 * Adding asset images.
-* Adding border radius.
 
 ![thumbnail](screenShot.png)
+
+[Deployed Link](https://plant-home-page-clone.netlify.app/)
